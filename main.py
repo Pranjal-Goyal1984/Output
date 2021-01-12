@@ -5,3 +5,4 @@ print("My favorite superhero is Wanda from Marvel")
 
 # Concatenation is when you add two strings together using '+'
 
+print("Hello " + "World")
